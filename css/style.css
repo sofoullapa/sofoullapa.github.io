@@ -1,0 +1,15 @@
+.eikona{
+	margin: 20px;
+	width: 100%;
+}
+body{
+	background-color: lightblue;
+}
+
+.titlos {
+	text-align: center;
+}
+
+li {
+	font-size: 30px;
+}
